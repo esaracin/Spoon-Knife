@@ -12,4 +12,4 @@ Adding in new feature now:
 
 Adding in second feature: once, twice
 
-adding in third new feature: 1, 2
+adding in third new feature:
