@@ -10,4 +10,4 @@ For some more information on how to fork a repository, [check out our guide, "Fo
 
 Adding in new feature now:
 
-Adding in second feature
+Adding in second feature: once, twice
